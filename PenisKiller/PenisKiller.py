@@ -56,7 +56,7 @@ import discum
 
 
 ur = 'https://discord.com/api/v9/channels/messages'
-title = 'PussyKiller'
+title = 'PenisKiller'
 system(f'title {title}')
 tokens = open('tokens.txt', 'r').read().splitlines()
 
